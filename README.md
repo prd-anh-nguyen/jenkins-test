@@ -1,3 +1,3 @@
 # jenkins-test
 
-test jenkins hoian-333
+test jenkins hanoi-test-111
